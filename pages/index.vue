@@ -86,7 +86,7 @@ data(){
   return{
     text:null,
     Qr:'',
-    Api:'https://chart.googleapis.com/chart?cht=qr&chs=500x500&chl=',
+    Api:'https://quickchart.io/chart?cht=qr&chs=500x500&chl=',
     id:'',
   }
 },
